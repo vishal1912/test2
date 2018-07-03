@@ -459,3 +459,12 @@
   459  git checkout -b staging
   460  ls
   461  history > history.txt
+  462  ls
+  463  git add .
+  464  git commit -m 'history added'
+  465  git push -u origin staging
+  466  ls
+  467  git status
+  468  git checkout -b feature
+  469  ls
+  470  history > history.txt
