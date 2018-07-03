@@ -1,0 +1,461 @@
+    1  ls
+    2  ls
+    3  f:
+    4  ls
+    5  cd /
+    6  ls
+    7  cd usr
+    8  ls
+    9  exit
+   10  git config --global user.name "vishal.kumar"
+   11  git config --global user.email vishal.kumar@mpowersoft.com
+   12  ssh-keygen -t rsa -C "vishal.kumar@mpowersoft.com" 
+   13  ssh-keygen -t rsa -C "vishal.kumar@mpowersoft.com" 
+   14  ls
+   15  ssh-keygen -t rsa -C "vishal.kumar@mpowersoft.com" 
+   16  cat ~/.ssh/id_rsa.pub
+   17  ls
+   18  f:
+   19  cd desktop
+   20  ls
+   21  md git
+   22  mkdir git
+   23  cd git
+   24  mkdir Oxisecure
+   25  cd oxisecure
+   26  ls
+   27  mkdir mwallet
+   28  cd mwallt
+   29  cd mwallet
+   30  cd ..
+   31  cd ..
+   32  ls
+   33  mkdir nxtxn
+   34  cd nxtxn
+   35  mkdir nxtxn-doc
+   36  cd nxtxn-doc
+   37  ls
+   38  git clone git@103.253.36.226:nxtxn/nxtxn-docs.git
+   39  ls
+   40  ls
+   41  cd ..
+   42  ls
+   43  ls
+   44  cd ..
+   45  cd nxtxn
+   46  ls
+   47  mkdir nxtxn-b2c
+   48  cd nxtxn-b2c
+   49  ls
+   50  git clone git@103.253.36.226:nxtxn/nxtxn-b2c.git
+   51  git clone git@103.253.36.226:nxtxn/nxtxn-b2c.git
+   52  list
+   53  help
+   54  dir
+   55  clear
+   56  help
+   57  dirs
+   58  git
+   59  git branch
+   60  git branch list
+   61  git m-saathi branches
+   62  git branches m-saathi
+   63  git brach m-saathi
+   64  git branch m-saathi
+   65  git branch list
+   66  branch list
+   67  git list
+   68  git --help
+   69  git show
+   70  cd m-saathi
+   71  git branch list
+   72  git branch list
+   73  exit
+   74  ls
+   75  f:
+   76  mkdir GitBox
+   77  cd GitBox
+   78  git clone ssh://git@gitlab.mpowersoft.com:m-Saathi/mSaathi.git
+   79  git clone ssh://git@172.16.10.226:81:m-Saathi/mSaathi.git
+   80  git clone http://gitlab.mpowersoft.com/m-Saathi/mSaathi.git
+   81  git clone http://gitlab.mpowersoft.com/m-Saathi/mSaathi.git
+   82  checkout staging
+   83  git checkout staging
+   84  ls
+   85  ls
+   86  ls
+   87  ls
+   88  ls
+   89  ls
+   90  git checkout staging
+   91  git checkout staging
+   92  git checkout DBS-EKYC
+   93  ls
+   94  cd UserModule
+   95  ls
+   96  cd usermodule
+   97  ls
+   98  cd ..
+   99  cd ..
+  100  ls
+  101  cd UserService
+  102  ls
+  103  cd usermodule
+  104  ls
+  105  cd src
+  106  ls
+  107  cd ..
+  108  git pull
+  109  ls
+  110  cd UserService
+  111  ls
+  112  git status
+  113  ls
+  114  pwd
+  115  gi
+  116  git
+  117  git push
+  118  git help push
+  119  git clean -fdx
+  120  git reset --hard head
+  121  git stash
+  122  git stash list
+  123  git stash pop
+  124  git help stash
+  125  git help push
+  126  git help merge
+  127  git status
+  128  ls
+  129  cd UserService
+  130  ls
+  131  cd usermodule
+  132  ls
+  133  git pull
+  134  ls
+  135  git update
+  136  ls
+  137  ls
+  138  cd F:\git\git-usermodule\usermodule
+  139  cd f:
+  140  cd Git/git-usermodule
+  141  ls
+  142  cd usermodule/
+  143  ls
+  144  git branch
+  145  git push origin hotfix
+  146  git status
+  147  git stash
+  148  git pull
+  149  pwd
+  150  cd ..
+  151  cd ..
+  152  ls
+  153  ls user*
+  154  git clone http://gitlab.mpowersoft.com/OW-Website/usermodule.git
+  155  git clone http://gitlab.mpowersoft.com/OW-Website/usermodule.git
+  156  git clone http://172.16.10.226:81/OW-Website/usermodule.git
+  157  ls
+  158  ls
+  159  ll
+  160  cd us
+  161  cd ..
+  162  cd git-usermodule
+  163  ls
+  164  cd usermodule/
+  165  ls
+  166  git status
+  167  git pull
+  168  git stash
+  169  git pull
+  170  cd ..
+  171  ls
+  172  cd ..
+  173  cd us
+  174  cd usermodule/
+  175  ls
+  176  ls
+  177  git status
+  178  git add .
+  179  git status
+  180  git branch
+  181  git status
+  182  git push origin hotfix-02
+  183  git branch
+  184  git fetch
+  185  git branch
+  186  git status
+  187  git branch
+  188  git push origin master 
+  189  ls
+  190  docker pull
+  191  git pull
+  192  git pull
+  193  f
+  194  f:
+  195  f/
+  196  ls
+  197  f:
+  198  f:
+  199  f:/
+  200  ls
+  201  cd f
+  202  cd f:
+  203  ls
+  204  cd git
+  205  ls
+  206  cd nxtxn
+  207  ls
+  208  cd go
+  209  ls
+  210  go
+  211  /go
+  212  ./go
+  213  ls
+  214  cd ..
+  215  ls
+  216  cd ..
+  217  ls -l
+  218  cd nxtxn
+  219  ls
+  220  ll
+  221  git clone http://gitlab.mpowersoft.com/nxtxn/nxtxn-b2c-new.git
+  222  cd f
+  223  cd f/
+  224  cd /f
+  225  ls
+  226  cd vayu
+  227  ls
+  228  git clone http://gitlab.mpowersoft.com/vayu/user_service.git
+  229  git status
+  230  cd user_service
+  231  ls
+  232  git status
+  233  git branch
+  234  git branch staging
+  235  git checkout staging
+  236  git commit
+  237  git push
+  238  git pull
+  239  git pull staging
+  240  ls
+  241  cd F/
+  242  cd f:/
+  243  cd vayu
+  244  ls
+  245  cd user_service/
+  246  ls
+  247  git pull
+  248  ls
+  249  ls
+  250  git pull
+  251  git branch feature
+  252  git pull
+  253  cd ..
+  254  ls
+  255  mkdir poc
+  256  ls
+  257  cd poc
+  258  git clone https://github.com/olivergierke/sos.git
+  259  ls
+  260  git clone https://github.com/olivergierke/spring-restbucks.git
+  261  git clone https://github.com/olivergierke/rest-microservices.git
+  262  git clone https://github.com/spring-projects/spring-data-examples.git
+  263  ls
+  264  cd f:/
+  265  ls
+  266  cd vayu
+  267  ls
+  268  git clone http://gitlab.mpowersoft.com/vayu/profile_service.git
+  269  git clone http://gitlab.mpowersoft.com/vayu/profile_service.git
+  270  git clone http://gitlab.mpowersoft.com/vayu/profile_service.git
+  271  ls
+  272  cd profile_service/
+  273  lss
+  274  ls 
+  275  git pull
+  276  git branch feature
+  277  cd ..
+  278  ls
+  279  rm -r profile_service
+  280  rm -R profile_service
+  281  ls
+  282  git clone http://gitlab.mpowersoft.com/vayu/profile_service.git
+  283  cd profile_service/
+  284  ls
+  285  ls
+  286  git branch feature
+  287  ls
+  288  git clone http://gitlab.mpowersoft.com/vayu/vayu_kid.git
+  289  ls
+  290  git checkout -b staging
+  291  ls
+  292  cd vayu_kid/
+  293  git branch -b staging
+  294  git checkout -b staging
+  295  ls
+  296  git status
+  297  git checkout -b feature
+  298  git status
+  299  git commit -m 'framework'
+  300  git commit -m 'framework' .
+  301  git add .
+  302  git status
+  303  git commit -m 'framework'
+  304  git push
+  305  git push --set-upstream origin feature
+  306  git push --set-upstream origin master
+  307  cd ..
+  308  ls
+  309  cd ..
+  310  ls
+  311  git clone http://gitlab.mpowersoft.com/vayu/test.git
+  312  ls
+  313  cd test
+  314  ls
+  315  git checkout -b staging
+  316  git status
+  317  git checkout -b feature
+  318  git status
+  319  vi readme
+  320  git add .
+  321  git status
+  322  git commit -m 'v1'
+  323  git push
+  324  git status
+  325  git push --set-upstream origin feature
+  326  cd ..
+  327  git clone https://cdac-teknospire@bitbucket.org/Teknospire/bcs_docs.git
+  328  cd f:/
+  329  cd git-learn
+  330  mkdir git-learn
+  331  cd git-learn/
+  332  ls
+  333  git clone https://github.com/vishal1912/TestRepo.git
+  334  cd TestRepo/
+  335  ls
+  336  git status
+  337  git fetch
+  338  git checkout -b staging
+  339  git push
+  340  git push --set-upstream origin staging
+  341  git status
+  342  notepad Test.txt
+  343  git add .
+  344  git status
+  345  git commit -m 'test'
+  346  git push
+  347  git push -u origin master
+  348  git status
+  349  git checkout master
+  350  cd ..
+  351  ls
+  352  ls
+  353  mkdir test-repo
+  354  cd test
+  355  cd test-repo/
+  356  ls
+  357  echo "# TestRepo" >> README.md
+  358  ls
+  359  git init
+  360  git add .
+  361  git commit -m 'readme.md file'
+  362  git remote add origin https://github.com/vishal1912/TestRepo.git
+  363  git push -u origin master
+  364  git fetch
+  365  git checkout -b staging
+  366  ls
+  367  notepad README.md 
+  368  ls
+  369  git add .
+  370  git commit -m 'line1 added'
+  371  git push
+  372  git push --set-upstream origin staging
+  373  git checkout -b feature
+  374  ls
+  375  notepad README.md 
+  376  git add .
+  377  git commit -m 'line 2'
+  378  git status
+  379  git push -u origin feature
+  380  git checkout master
+  381  cat README.md 
+  382  git checkout staging
+  383  git merge feature
+  384  git status
+  385  cat README.md 
+  386  git checkout master
+  387  cat README.md 
+  388  git merge staging
+  389  cat README.md 
+  390  git branch -d feature
+  391  git status
+  392  git checkout staging
+  393  git status
+  394  git push
+  395  git status
+  396  git checkout master
+  397  git status
+  398  git push origin master
+  399  git checkout feature
+  400  git push
+  401  git checkout staging
+  402  git branch -b feature-1
+  403  git checkout -b feature-1
+  404  git status
+  405  ls
+  406  notepad README.md 
+  407  git add .
+  408  git commit -m 'feature-1'
+  409  git checkout staging
+  410  git checkout -b feature-2
+  411  ls
+  412  notepad README.md 
+  413  ls
+  414  git add .
+  415  git commit -m 'feature-2'
+  416  ls
+  417  git push -u origin feature-2
+  418  git checkout feature-1
+  419  cat README.md 
+  420  git status
+  421  git push -u origin feature-1
+  422  git checkout staging
+  423  git merge feature-1
+  424  git diff
+  425  git status
+  426  git push
+  427  git status
+  428  git 
+  429  git merge feature-2
+  430  notepad README.md 
+  431  git status
+  432  git add .
+  433  git commit -m 'merged'
+  434  git push
+  435  git status
+  436  git checkout master
+  437  git merge staging
+  438  cat README.md 
+  439  git push
+  440  history
+  441  history > git-commands.txt
+  442  ls
+  443  git checkout feature-2
+  444  git merge staging
+  445  cat README.md 
+  446  cd .
+  447  cd ..
+  448  git clone https://github.com/vishal1912/test2.git
+  449  notepad readme.md
+  450  git add .
+  451  ls
+  452  mv readme.md ./test2
+  453  cd test2
+  454  ls
+  455  git status
+  456  git add .
+  457  git commit -m 'init'
+  458  git push origin master
+  459  git checkout -b staging
+  460  ls
+  461  history > history.txt
